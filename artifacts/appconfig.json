@@ -1,0 +1,12 @@
+{
+  "name": "knowledge-search",
+  "provider": "SAP SE",
+  "description": "Search Wikipedia for articles",
+  "version": "1.0.0",
+  "icon": "",
+  "useShellSDK": true,
+  "dockerRegistry": "beatmeiersap",
+  "helmChartVersion": "1.0.0",
+  "parameters": [],
+  "outletPositions": []
+}
