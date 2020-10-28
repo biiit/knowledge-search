@@ -2,11 +2,11 @@
   "name": "knowledge-search",
   "provider": "SAP SE",
   "description": "Search Wikipedia for articles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "https://raw.githubusercontent.com/biiit/knowledge-search/main/img/knowledgeIcon.png",
   "useShellSDK": true,
   "dockerRegistry": "beatmeiersap",
-  "helmChartVersion": "1.0.0",
+  "helmChartVersion": "1.0.1",
   "parameters": [],
   "outletPositions": []
 }
