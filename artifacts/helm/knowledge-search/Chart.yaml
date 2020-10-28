@@ -22,4 +22,4 @@ appVersion: "1.0.0"
 description: Search Wikipedia for articles
 
 # A URL to an SVG or PNG image to be used as an icon
-icon: ''
+icon: https://raw.githubusercontent.com/biiit/knowledge-search/main/img/knowledgeIcon.png

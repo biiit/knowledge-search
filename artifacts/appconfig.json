@@ -3,7 +3,7 @@
   "provider": "SAP SE",
   "description": "Search Wikipedia for articles",
   "version": "1.0.0",
-  "icon": "",
+  "icon": "https://raw.githubusercontent.com/biiit/knowledge-search/main/img/knowledgeIcon.png",
   "useShellSDK": true,
   "dockerRegistry": "beatmeiersap",
   "helmChartVersion": "1.0.0",
