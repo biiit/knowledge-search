@@ -3,10 +3,10 @@
   "provider": "SAP SE",
   "description": "Search Wikipedia for articles",
   "version": "1.0.1",
-  "icon": "https://raw.githubusercontent.com/biiit/knowledge-search/main/img/knowledgeIcon.png",
+  "icon": "https://raw.githubusercontent.com/agugger/agugger-extension/master/IconKnowledge.png",
   "useShellSDK": true,
   "dockerRegistry": "beatmeiersap",
-  "helmChartVersion": "1.0.1",
+  "helmChartVersion": "1.0.2",
   "parameters": [],
   "outletPositions": []
 }
