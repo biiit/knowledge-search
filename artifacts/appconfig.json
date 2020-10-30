@@ -2,7 +2,7 @@
   "name": "knowledge-search",
   "provider": "SAP SE",
   "description": "Search Wikipedia for articles",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "icon": "https://raw.githubusercontent.com/agugger/agugger-extension/master/IconKnowledge.png",
   "useShellSDK": true,
   "dockerRegistry": "beatmeiersap",
